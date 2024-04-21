@@ -14,7 +14,7 @@ When it comes to developing enterprise apps for SharePoint, Power Platform or D3
 
 ![](media/840019e63dca5d1b23afd4ec6db5c610.png)
 
-Add responsiveness to the app using flex containers
+### Responsive design using flex containers
 
 -   Desktop
 
