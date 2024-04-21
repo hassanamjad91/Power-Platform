@@ -4,7 +4,7 @@ The following showcases one of my recent projects that I implemented on the Powe
 
 ## My Development Approach
 
-When it comes to developing enterprise apps for SharePoint, Power Platform or D365 CE my approach is allot more robust and modern then conventional developers. Since I have expertise in UI / UX Design, I use Figma to first build the app’s design system which includes layouts, paddings, margins, typography, buttons, responsive layouts, color palettes etc. Using the design system I then start building high fidelity prototypes for the app. After this I add interactions between the prototypes to design UX Flows which I then demo to the clients.
+When it comes to developing enterprise apps for SharePoint, Power Platform or D365 CE my approach is allot more robust and modern then conventional developers. Since I have expertise in UI / UX Design, I use Figma to first build the app’s design system which includes responsive grid system, paddings, margins, typography, buttons, color palettes etc. Using the design system I then start building high fidelity prototypes for the app. After this I add interactions between the prototypes to design UX Flows which I then demo to the clients.
 
 ![](media/c0ad1edb266a8df36cb329e024a70b2a.png)
 
@@ -16,14 +16,14 @@ When it comes to developing enterprise apps for SharePoint, Power Platform or D3
 
 ### Responsive design using flex containers
 
--   Desktop
+#### Desktop
 
 ![](media/db5701f3ecb9041cc73d07a2712d33e2.png)
 
--   Tablet
+#### Tablet
 
 ![](media/69a7a4af6f3c30eb5bb785df64e75467.png)
 
--   Mobile
+#### Mobile
 
 ![](media/efbe786365c165f34d951e157255d6df.png)
